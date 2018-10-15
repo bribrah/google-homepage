@@ -1,0 +1,54 @@
+.horizCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    margin-top: 15%;
+}
+.searchBox{
+    margin-top: 10px;
+    width: 40%;
+    font-size: 18px;
+    padding: 5px 3px 5px 3px;
+    background-color: transparent;
+}
+.navbar{
+    width: 93%;
+    height: 30px;
+    margin-top: 20px;
+}
+.float{
+    float: left;
+}
+.barIcon{
+    float: left;
+    padding: 5px;
+    text-decoration: none;
+    opacity: 75%;
+    color: black;
+    font-size: 14px;
+}
+.barIcon:hover{
+    text-decoration-line: underline;
+}
+.right{
+    float: right;
+}
+.searchButtonsBar{
+    width: 24%;
+}
+.searchButton{
+    background-color: #a9a9a926;
+    width: 111px;
+    padding: 7px;
+    float: left;
+    margin-right: 18px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    color: #928888;
+
+}
